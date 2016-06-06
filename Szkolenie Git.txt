@@ -1,0 +1,57 @@
+Narzêdzie dla Windows: TortoiseGit.
+
+Uml EnterpriceArchitekt - narzêdzie do UML.
+
+Server Github.com oraz https://bitbucket.org/
+
+-----------------
+Tworzê folder 
+cd MyProject -> 
+
+git init
+git add nazwaPliku lub (wszystkie *.*)
+git status
+git commit -m "small changes"
+git log
+git log --oneline
+git log -n 1 
+gitk -> fajna konsola
+
+----------------------------
+git init
+git remote add origin http://github.com/marwar/altkom_gittest1.git
+git add HejMariusz.txt
+git commit -m "Pierwszy commit od Szczepana"
+git push http://github.com/marwar/altkom_gittest1.git master
+
+git pull <zdalny> <branch - master> 
+git pull http://github.com/marwar/altkom_gittest1.git master
+
+
+https://pl.wikipedia.org/wiki/Strategia_%28wzorzec_projektowy%29
+
+---------------
+Solid ood ->
+https://pl.wikipedia.org/wiki/Solid_%28programowanie_obiektowe%29 
+
+---------------
+£¹czenie klas prze interface.
+---------------
+Odwrócenie sterowania.
+https://pl.wikipedia.org/wiki/Odwr%C3%B3cenie_sterowania
+
+---------------
+Strategia wzorzec: 
+https://pl.wikipedia.org/wiki/Strategia_%28wzorzec_projektowy%29
+
+---------------
+SourceTree - fajne narzêdzie https://www.sourcetreeapp.com/
+---------------
+https://sourcemaking.com/ - fajna strona o wzorcach projektowych
+
+---------------
+Css obiektowo -> http://lesscss.org/
+http://jade-lang.com/reference/ 
+---------------
+UML przypadki u¿ycia -> User usage, 
+

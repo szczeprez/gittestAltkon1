@@ -1,1 +1,2 @@
 asdf
+Dodanie zmian do pliczka na branchu.

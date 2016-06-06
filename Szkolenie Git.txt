@@ -27,8 +27,27 @@ git push http://github.com/marwar/altkom_gittest1.git master
 git pull <zdalny> <branch - master> 
 git pull http://github.com/marwar/altkom_gittest1.git master
 
+git commint -a -m 'poprawka'
+
+----------------------------
+Tworzenie nowego brancha
+git branch alamakota
+git branch
+git checkout alamakota -> przejœcie do brancha
+
+
+
+
+
+
 
 https://pl.wikipedia.org/wiki/Strategia_%28wzorzec_projektowy%29
+
+
+
+
+
+
 
 ---------------
 Solid ood ->

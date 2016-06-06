@@ -54,4 +54,6 @@ Css obiektowo -> http://lesscss.org/
 http://jade-lang.com/reference/ 
 ---------------
 UML przypadki u¿ycia -> User usage, 
+UML Sequence Diagram.
+
 
